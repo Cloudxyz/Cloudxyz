@@ -1,10 +1,10 @@
 ### BIO 🤖
 
-<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/mx.png' height='10px' > Desarrollador web auto motivado con alto nivel de experiencia trabajando en múltiples proyectos. Apasionado y trabajador con inclinación por cumplir los plazos. Interesado en el papel de la compañía que promueve las mejores prácticas y ofrece diversos proyectos de clientes, con 6 años de experiencia en desarrollo de Frontend y Backend.
+<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/mx.png' height='10px' > Desarrollador web auto motivado con alto nivel de experiencia trabajando en múltiples proyectos. Apasionado y trabajador con inclinación por cumplir los plazos. Interesado en el papel de la compañía que promueve las mejores prácticas y ofrece diversos proyectos de clientes, con 8 años de experiencia en desarrollo de Frontend y Backend. 2 años de experiencia en gestión de equipos de desarrollo.
 
 ------------
 
-<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/usa.png' height='10px' > Self motivated web developer with a high level of experience working on multiple projects. Passionate and hard-working with an inclination to meet deadlines. Interested in the role of the company that promotes best practices and offers various client projects, with 6 years of experience in developing Frontend and Backend.
+<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/usa.png' height='10px' > Self motivated web developer with a high level of experience working on multiple projects. Passionate and hard-working with an inclination to meet deadlines. Interested in the role of the company that promotes best practices and offers various client projects, with 8 years of experience in developing Frontend and Backend. 2 years of experience managing development teams.
 
 ### Projects 🚀
 | <span style="color:green">Hubbell</span> |<span  style="color:green"> SBRealtors</span>  | <span  style="color:green">Vallartalifestyles</span>  | <span  style="color:green">RestaurantWeek</span> | <span  style="color:green">Marina Towers</span> | 
