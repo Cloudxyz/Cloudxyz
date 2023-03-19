@@ -2,21 +2,21 @@
 
 <img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/mx.png' height='10px' > Desarrollador web motivado con alto nivel de experiencia trabajando en múltiples proyectos.<br/>
 Apasionado y trabajador con inclinación por cumplir los plazos.<br/>
-Interesado en el papel de la compañía promoviendo las mejores prácticas y ofreciendo diversos proyectos de clientes, con 10 años de experiencia en frontend y backend desarrollo.<br/>
+Interesado en el papel de la compañía promoviendo las mejores prácticas y ofreciendo diversos proyectos de clientes, con 5 años de experiencia en frontend y backend desarrollo.<br/>
 Experto experimentado en lenguajes como HTML, CSS, PHP, JavaScript.<br/>
 Manejo avanzado de CMS Wordpress, creación de tiendas en línea, paginas web, desde 0 totalmente personalizables.<br/>
 Manejo de Apis de real estate y hoteleria - Hote Cloudbeds, Flex MLS, entre otras.<br/>
-3 años de experiencia en gestión de equipos de desarrollo web y project manager.
+1 años de experiencia en gestión de equipos de desarrollo web y project manager.
 
 ------------
 
 <img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/flags/usa.png' height='10px' > Motivated web developer with a high level of experience working on multiple Projects.<br/>
 Passionate and hardworking with a penchant for meeting deadlines.<br/>
-Interested in the company's role in promoting best practices and offering various client projects, with 10 years of experience in frontend and backend developing.<br/>
+Interested in the company's role in promoting best practices and offering various client projects, with 5 years of experience in frontend and backend developing.<br/>
 Experienced expert in languages like HTML, CSS, PHP, JavaScript.<br/>
 Advanced management of CMS Wordpress, creation of online stores, web pages, from 0 fully customizable.<br/>
 Management of real estate and hotel APIs - Hotel Cloudbeds, Flex MLS, among others.<br/>
-3 years of experience managing web development teams and project manager.
+1 years of experience managing web development teams and project manager.
 
 ### Projects 🚀
 |<span style="color:green"><strong>Megapolis Convention Center<br/>2022</strong></span>|<span style="color:green"><strong>Megapolis Outlets<br/>2022</strong></span>|<span style="color:green"><strong>Decapolis Hotel<br/>2022</strong></span>|<span style="color:green"><strong>El Grullo Naturista<br/>2022</strong></span>|<span style="color:green"><strong>Fredys Túcan<br/>2022</strong></span>|<span style="color:green"><strong>Seguritlán<br/>2022</strong></span>|
