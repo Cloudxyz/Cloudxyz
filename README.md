@@ -14,6 +14,11 @@ Advanced management of CMS Wordpress, creation of online stores, web pages, from
 Management of real estate and hotel APIs - Hotel Cloudbeds, Flex MLS, among others.<br/>
 Experience managing web development teams and project manager.
 
+### Programming Skills ⚔️
+|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/php.png' height='50px' >|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/laravel.png' height='60px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/css.png' height='50px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/javascript.jpg' height='50px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/wordpress.png' height='50px'>|
+| :------------: | :------------: |:------------: |:------------: |:------------: |
+<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/mysql.png' height='70px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/git.png' height='70px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/apirest.png' height='70px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/react.png' height='50px'>|
+
 ### Design Skills 🎨
 |<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/photoshop.png' height='60px' >|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/illustrator.png' height='60px'>|<img src='https://raw.githubusercontent.com/cloudxyz/cloudxyz/master/skills/webflow.png' height='60px'>|
 | :------------: | :------------: |:------------: |
